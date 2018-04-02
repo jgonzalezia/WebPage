@@ -172,7 +172,7 @@
                     </div>
                 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-lg-12 text-center">
         <br><br><h2 class="section-heading">Servicios de Soporte Tecnológico</h2><br>
         <p align="center"class="section-subheading text-muted text-center">Tenemos la solución para cada uno de los problemas que tenga tu equipo de cómputo.</p><br><br>
@@ -186,7 +186,6 @@
     <img class="item1" src="img/portfolio/1.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>INSTALACIÓN DE SOFTWARE</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -199,7 +198,7 @@
     <img class="item1" src="img/portfolio/5.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>PROTECCIÓN COMPLETA (CORRECIÓN DE VIRUS Y SPYWARE)</strong></h5><br>
-    <!---->
+
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -212,7 +211,7 @@
     <img class="item1" src="img/portfolio/3.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>DIÁGNOSTICO</strong></h5><br>
-    <!---->
+
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -225,7 +224,6 @@
     <img class="item1" src="img/portfolio/6.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>RESPALDO</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -242,7 +240,6 @@
     <img class="item1" src="img/portfolio/8.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>ACTUALIZACIÓN</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -256,7 +253,6 @@
     <img class="item1" src="img/portfolio/9.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>OPTIMIZACIÓN</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -269,7 +265,6 @@
     <img class="item1" src="img/portfolio/10.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>RESTAURACIÓN</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -282,7 +277,6 @@
     <img class="item1" src="img/portfolio/11.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>CONSULTORÍA</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -301,7 +295,6 @@
     <img class="item1" src="img/portfolio/2.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>INSTALACIÓN DE HARDWARE</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -314,7 +307,6 @@
     <img class="item1" src="img/portfolio/4.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>MANTENIMIENTO PREVENTIVO Y CORRECTIVO</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -327,7 +319,6 @@
     <img class="item1" src="img/portfolio/12.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>RECUPERACIÓN DE INFORMACIÓN</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -340,7 +331,6 @@
     <img class="item1" src="img/portfolio/7.png" alt="Software" width=80; height=80>
     </button>
      <br><h5><strong>INSTALACIÓN DE REDES (CABLEADO ESTRUCTURADO)</strong></h5><br>
-    <!---->
     <script>
     $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip();
@@ -350,8 +340,8 @@
 
 </div> 
             </div>
-        </div>
-
+ -->
+</div>
             <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
